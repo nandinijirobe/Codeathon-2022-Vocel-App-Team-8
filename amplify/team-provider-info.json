@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vocelapp-dev-140026-authRole",
+      "UnauthRoleArn": "arn:aws:iam::474065304265:role/amplify-vocelapp-dev-140026-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::474065304265:role/amplify-vocelapp-dev-140026-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-vocelapp-dev-140026-deployment",
+      "UnauthRoleName": "amplify-vocelapp-dev-140026-unauthRole",
+      "StackName": "amplify-vocelapp-dev-140026",
+      "StackId": "arn:aws:cloudformation:us-east-1:474065304265:stack/amplify-vocelapp-dev-140026/c74dd490-7b20-11ed-bd1e-0ed7c045b3f3",
+      "AmplifyAppId": "dr1e7tplcfu4p"
+    },
+    "categories": {
+      "auth": {
+        "vocelapp0d0a6849": {}
+      },
+      "api": {
+        "vocelapp": {}
+      }
+    }
+  }
+}
