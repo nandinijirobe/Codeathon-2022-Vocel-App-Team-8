@@ -1,4 +1,4 @@
-# vocel_app
+# Team 8 vocel_app
 
 A new Flutter project.
 
